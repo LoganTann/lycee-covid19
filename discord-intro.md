@@ -13,8 +13,11 @@ Discord est un service de t'chat gratuit similaire à Skype, IRC pour les plus v
 
 ## Comment on commence ?
 
-En tant qu'élève, le processus est tout simple : 
-* Soit vous utilisez votre smartphone : Installez discord, inscrivez vous (nécessite un mail), [Rejoignez le serveur de la classe](https://discord.gg/XkMerGD) et c'est bon.
-* Soit par PC (recommandé), il faut aller sur le lien [du serveur de la classe](https://discord.gg/XkMerGD), un bouton est normalement disponible pour créer un compte. Le processus est donc similaire au téléphone.
+Tout d'abord, il est primordial de se créer un compte : 
+* **Sur PC** : https://discordapp.com/register
+* **Sur téléphone** : télécharger l'application discord. un bouton de création de compte est affiché.
+
+Ensuite, une fois le compte créé, il est nécessaire de rejoindre le serveur de t'chat  : Il suffit simplement de suivre
+[du serveur de la classe](https://discord.gg/XkMerGD)
 
 **L'article sera mis à jour ultérieurement...**
