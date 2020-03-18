@@ -1,1 +1,1 @@
-[Introduction discord](discord-intro)
+[Introduction discord](discord-intro.md)
