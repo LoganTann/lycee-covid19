@@ -110,10 +110,10 @@ Si tout va bien, une fenêtre s'affiche :
 
 ## Utilisation avancée
 
-Dans cette section:
-* Lors d'indications de raccourcis claviers, le signe `+` indique que la touche qui la précède doit être maintenu le long de la combinaison)
-* Les clics droit sur souris seront traduits par des appuis long sur mobile, les menus sont similaires.
-* Passer sa souris sur une option revient à cliquer sur l'option sur mobile.
+> Dans cette section:
+> * Lors d'indications de raccourcis claviers, le signe `+` indique que la touche qui la précède doit être maintenu le long de la combinaison)
+> * Les clics droit sur souris seront traduits par des appuis long sur mobile, les menus sont similaires.
+> * Passer sa souris sur une option revient à cliquer sur l'option sur mobile.
 
 ### Écriture de messages avancés avec le Markdown
 Il est possible de styliser vos messages avec du Markdown.
@@ -131,15 +131,15 @@ Il est possible de styliser vos messages avec du Markdown.
 
 #### Syntaxes
 
-Pour faire le signe `~` sur ordinateur:
-
-* Windows: `Alt Gr+é` suivi d'un espace.
-* Mac: `⌥ (Option)+n`
-
-Pour faire le signe ` sur ordinateur:
-
-* Windows: `Alt Gr+è` suivi d'un espace.
-* Mac: Une touche est assignée, à côté de la touche `ù`.
+> Pour faire le signe `~` sur ordinateur:
+>
+> Windows: `Alt Gr+é` suivi d'un espace.
+> * Mac: `⌥ (Option)+n`
+>
+> Pour faire le signe ` sur ordinateur:
+>
+> * Windows: `Alt Gr+è` suivi d'un espace.
+> * Mac: Une touche est assignée, à côté de la touche `ù`.
 
 Voici quelques synatxes.
 ##### ► Accentuation
@@ -273,22 +273,56 @@ Pour l'activer, il faut cliquer sur votre **icône de profil** (et pas votre nom
 
 ![Exemple de processus sur ordinateur](captures/discordHowToDnD.gif) ![Exemple de processus sur mobile](captures/discordHowToDnD_mobile.gif)
 
+*Exemple pour se mettre en mode "Ne pas déranger" sur mobile et ordinateur*
 
 #### Rendre muet
 Il est possible de rendre muet un salon, une catégorie ou un serveur tout entier.
-*(Rendre muet un serveur n'est disponible que sur la version ordinateur)*
 
 ↪ Pour rendre muet un salon, une catégore ou un serveur il faut cliquer droit sur le nom de celui-ci, passer ça souris sur "Rendre muet ce <...>" et choisir la durée pour laquelle vous voulez rendre muet.
 
 ↪ Vous pouvez ne plus le rendre muet en cliquant droit sur le salon et cliquer sur "Rétablir la voix de ce <...>".
 
 ![Rendre muet sur ordinateur](captures/discordHowToMuteChannel.gif) ![Rendre muet sur mobile](captures/discordHowToMuteChannel_mobile.gif)
+
 *Exemple pour rendre muet un salon sur mobile et ordinateur*
 
+#### Paramétrage des notifications
+On peut aussi changer quelles notifications seront utilisées pour un serveur ou un salon:
+* Pour un salon, il faut cliquer droit sur le nom, passer ça souris sur "Notifications" et choisir un réglage.
+* Pour un serveur tout entier, il faut simplement cliquer sur le nom du serveur.
 
-### Paramètres, affichage
+Une fois cliqué, différents réglages sont possibles, pour les salons et les serveurs on peut régler les notifications pour:
+* Qu'elles apparaissent selon le réglage défini pour ceux du serveur (salons uniquement)
+* Qu'elles apparaissent pour tous les messages
+* Qu'elles apparaissent pour les mentions uniquement
+* Qu'elles n'apparaissent pas du tout
 
-> Je recommande de modifier les paramètres sur PC. Les captures et instructions sont disponibles uniquement pour les PC.
+Pour les serveurs:
+* On peut choisir de les rendre muets ou non (un peu [comme tout à l'heure](#rendre-muet))
+* On peut choisir de supprimer les mentions `@everyone` et `@here`
+* On peut choisir de supprimer toutes les mentions de rôles
+* Choisir si on active les notifications push pour mobile
+* Et également choisir pour quels salons cela ne doit pas s'appliquer.
+
+![Exemple notification serveur PC](captures/discordNotificationSettings.gif)
+
+*Exemple de l'affichge des paramètres de notifications sur la version ordinateur*
+
+### Paramètres
+
+> * *Ici seront listés les paramètres qu'on recommande de changer selon vos besoins*
+>
+> * *Certains paramètres ne s'appliquent que sur ordinateur, c'est pour ça qu'on recommande de modifier ces paramètres sur ordinateur. Les captures et instructions seront disponibles uniquement pour la version ordinateur.*
+
+↪ Pour accéder aux paramètres, il faut appuyer sur l'icône ![en forme d'engrenage](captures/gearIcon.PNG) à côté des icônes ![sourdine](captures/deafenIcon.PNG) et ![muet](captures/muteIcon.PNG) à côté de votre nom en bas des salons.
+
+![Tableau de bord utilisateur](captures/userBoard.PNG)
+
+↪ La liste des différents onglets se trouve sur la gauche, appuyer sur `[échap]` ou cliquer sur l'icône ![fermer (en croix)](captures/closeIcon.PNG) pour revenir sur l'interface principale.
+
+![Voici à quoi ressemble à peu près l'interface des paramètres](captures/settingsDiscord.PNG)
+
+#### Voix & vidéo
 
 ↪
 
@@ -296,4 +330,4 @@ Il est possible de rendre muet un salon, une catégorie ou un serveur tout entie
 
 ↪
 
-**L'article sera mis à jour ultérieurement...**
+**L'article sera mis à jour ultérieurement et régulièrement...**
