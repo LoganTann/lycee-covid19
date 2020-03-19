@@ -38,7 +38,8 @@ Si vous avez eu une expérience plutôt professionnelle assistée par ordinateur
 
 ![Liste des channels sur Discord](captures/channels.jpg)
 
-*Sur mobile: il faudra appuyer sur l'icône ![des trois traits]() afin de pouvoir voir la liste des salons (et accessoirement la liste des serveurs sur lesquels vous êtes)*
+*Sur mobile: il faudra appuyer sur l'icône ![des trois traits](captures/IMG_20200319_153309.jpg) afin de pouvoir voir la liste des salons (et accessoirement la liste des serveurs sur lesquels vous êtes)*
+
 *Ce système permet donc d'organiser la discussion sur des thèmes dans le même endroit pour tout le monde, y compris pour les discussions téléphoniques / lives. Sur la capture d'écran, certaines catégories ont été réduites*
 
 ↪ Puisque le serveur comporte plusieurs types de personnes (par exemple des élèves, des profs, une équipe de modération...), il est possible d'assigner **des rôles** afin de les différencier : 
@@ -46,7 +47,8 @@ Si vous avez eu une expérience plutôt professionnelle assistée par ordinateur
 ![Rôles](captures/roles.jpg)
 
 *En cliquant sur un utilisateur, vous pouvez voir les rôles, et en assigner si vous êtes profs*
-*Sur mobile: il faudra appuyer sur l'icône ![en forme de personnes]()*
+
+*Sur mobile: il faudra appuyer sur l'icône ![en forme de personnes](captures/IMG_20200319_153412.jpg)*
 
 ↪ Les rôles peuvent donner des droits (*par exemple, les profs peuvent avoir un droit d'administration totale sur le serveur*) mais aussi permettre de rendre les salons de discussions visibles ou invisibles : 
 
@@ -62,7 +64,7 @@ En cliquant sur un salon de discussion (ou channel), vous aurez accès à son hi
 
 ![Barre de message](captures/msgbar.jpg)
 
-↪ Le logo (:heavy_plus_sign:) est pour envoyer une pièce jointe. Elle est limitée à 8 Mo (on peut l'augmenter grâce à un [boost du serveur]().).
+↪ Le logo ![(:heavy_plus_sign:)](captures/discordSendFile.PNG) est pour envoyer une pièce jointe. Elle est limitée à 8 Mo (on peut l'augmenter grâce à un [boost du serveur]().).
 
 > Si vous envoyez des PowerPoint Microsoft, privilégiez l'envoi sur [OneDrive](https://onedrive.live.com/), qui propose une prévisualisation en ligne basique.
 >
@@ -84,7 +86,7 @@ Certaines mentions spéciales existent : `@everyone` pour notifier tout le serve
 
 ### Vocal, Live, Groupes privés pour vocal
 
-↪ Il est possible de passer un appel vocal groupé dans le serveur : il suffit juste de cliquer sur un salon dont le nom est précédé par une icône de haut parleur :speaker: . Les personnes sont libres de rejoindre le vocal, et ne sont pas notifiées. Avec la fonction Priority Speaker, le professeur a un droit de régulation sur le serveur : changer le son des autres pour qu'on écoute que lui, expulser quelqu'un...
+↪ Il est possible de passer un appel vocal groupé dans le serveur : il suffit juste de cliquer sur un salon dont le nom est précédé par une icône de haut parleur :speaker: . Les personnes sont libres de rejoindre le vocal, et ne sont pas notifiées. Avec la fonction *"Priority Speaker"*, les rôles ayant cette fonctionalité ont un droit de régulation sur le serveur : changer le son des autres pour qu'on écoute qu'eux , expulser quelqu'un...
 
 Si ceci est affiché, vous êtes connectés : 
 
@@ -92,7 +94,11 @@ Si ceci est affiché, vous êtes connectés :
 
 ↪ La fonction Live permet de partager son écran ou le contenu d'une application durant l'appel vocal groupé. Cela est particulièrement pratique pour faire cours sur un PowerPoint (ou autre). Si vous faites un cours sur webcam uniquement, YouTube propose un service de live qui est mieux adapté. *Si vous souhaitez faire les deux, l'utilisation d'un logiciel de stream tel qu'OBS est à proscrire, se référer [ici]()*
 
-​	Pour utiliser Live, vous devez être connecté à un serveur vocal et utiliser l'application de bureau (ne fonctionne pas sur navigateur). Cela fonctionne aussi bien sur Windows 7 que sur une distribution Linux (non testé sur Mac en revanche). Cliquez sur ![l’icône avec l'écran et la flèche qui se trouve juste avant le bouton pour raccrocher](). Si il n'est pas disponible, vous n'êtes pas sur l'appli PC, ou votre ordinateur n'est pas supporté, ou bien votre version de Discord n'est pas à jour (ce qui est très peu le cas puisque Discord est constamment mis à jour).
+↪	Pour utiliser Live, vous devez être connecté à un serveur vocal et utiliser l'application de bureau (ne fonctionne pas sur navigateur). Cela fonctionne aussi bien sur Windows 7 que sur une distribution Linux (non testé sur Mac en revanche). Cliquez sur l’icône ![avec l'écran et la flèche qui se trouve juste avant le bouton pour raccrocher](captures/Discor_goLive_icon.PNG). 
+
+↪ Il est possible de changer le contenu que vous diffusez en appuyer sur cette même icône.
+
+↪ Si il n'est pas disponible, vous n'êtes pas sur l'appli PC, ou votre ordinateur n'est pas supporté, ou bien votre version de Discord n'est pas à jour (ce qui est très peu le cas puisque Discord est constamment mis à jour).
 
 Si tout va bien, une fenêtre s'affiche : 
 
@@ -100,7 +106,7 @@ Si tout va bien, une fenêtre s'affiche :
 
 ↪ Choisissez une application ou un écran à diffuser et cliquez sur `[Passer au direct]`. Ainsi, le contenu que vous aviez choisi de diffuser sera visible par tous les utilisateurs connectés au salon vocal.
 
-Vous pouvez arrêter de diffuser à tout moment, en cliquant sur ![l'icône avec écran à côté du nom du contenu que vous diffusé]
+↪ Vous pouvez arrêter de diffuser à tout moment, en cliquant sur l'icône ![avec écran à côté du nom du contenu que vous diffusé](captures/Discor_stop_goLive_icon.PNG).
 
 ## Utilisation avancée
 
