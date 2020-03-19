@@ -46,7 +46,7 @@ Si vous avez eu une expérience plutôt professionnelle assistée par ordinateur
 
 ![Rôles](captures/roles.jpg)
 
-*En cliquant sur un utilisateur, vous pouvez voir les rôles, et en assigner si vous êtes profs*
+*En cliquant sur un utilisateur, vous pouvez voir les rôles, et en assigner si vous en avez les permissions nécessaires*
 
 *Sur mobile: il faudra appuyer sur l'icône ![en forme de personnes](captures/IMG_20200319_153412.jpg)*
 
@@ -73,7 +73,7 @@ En cliquant sur un salon de discussion (ou channel), vous aurez accès à son hi
 
 La gestion des pièces jointes est assez pittoresque sur mobile. Je recommande donc l'utilisation d'un PC pour l'envoi chez les professeurs.
 
-↪ Entez votre message et appuyez sur la touche `[entrée]` :leftwards_arrow_with_hook: pour envoyer. Pour sauter une ligne, appuyez sur `[entréé]` (:leftwards_arrow_with_hook:) tout en maintenant la touche `[Majuscule]` (:arrow_up:).
+↪ Entez votre message et appuyez sur la touche `[entrée]` :leftwards_arrow_with_hook: pour envoyer. Pour sauter une ligne, appuyez sur `[entrée]` (:leftwards_arrow_with_hook:) tout en maintenant la touche `[Majuscule]` (:arrow_up:).
 *À noter que cela n'est pas nécessaire pour la version mobile*
 
 ↪ Pour ajouter des emojis, cliquez sur le petit émoji de la barre à droite. Une liste s'affichera. Les emojis sont codés en texte, entre des `:` (ex: `:smile:` affichera :smile:). D'autres options sont disponibles (telles que les Gif), je vous laisse découvrir cela.
@@ -110,6 +110,11 @@ Si tout va bien, une fenêtre s'affiche :
 
 ## Utilisation avancée
 
+Dans cette section:
+* Lors d'indications de raccourcis claviers, le signe `+` indique que la touche qui la précède doit être maintenu le long de la combinaison)
+* Les clics droit sur souris seront traduits par des appuis long sur mobile, les menus sont similaires.
+* Passer sa souris sur une option revient à cliquer sur l'option sur mobile.
+
 ### Écriture de messages avancés avec le Markdown
 Il est possible de styliser vos messages avec du Markdown.
 
@@ -125,10 +130,16 @@ Il est possible de styliser vos messages avec du Markdown.
 ↪ Dans notre cas, c'est une syntaxe propre à Discord (puisque toutes les syntaxes de bases n'ont pas encore été implémentées et d'autres syntaxes ont été rajoutées).
 
 #### Syntaxes
-Pour faire le signe `~` sur ordinateur: *(le signe `+` indique que la touche qui la précède doit être maintenu le long de la combinaison)*
+
+Pour faire le signe `~` sur ordinateur:
 
 * Windows: `Alt Gr+é` suivi d'un espace.
 * Mac: `⌥ (Option)+n`
+
+Pour faire le signe ` sur ordinateur:
+
+* Windows: `Alt Gr+è` suivi d'un espace.
+* Mac: Une touche est assignée, à côté de la touche `ù`.
 
 Voici quelques synatxes.
 ##### ► Accentuation
@@ -170,10 +181,12 @@ __Vous ~~devez~~ **pouvez** *combiner* les ***syntaxes***__
 
 
 ##### ► Bloc de citation
+Ici, il ne faut pas négliger l'espace.
 ```
 Citation de Confucius:
 
-> Je ne cherche pas à connaître les réponses, 
+> Je ne cherche pas à connaître les réponses,
+>
 > je cherche à comprendre les questions.
 ```
 ↪ Ce qui donne:
@@ -181,7 +194,8 @@ Citation de Confucius:
 
 Citation de Confucius:
 
-> Je ne cherche pas à connaître les réponses, 
+> Je ne cherche pas à connaître les réponses,
+>
 > je cherche à comprendre les questions.
 
 
@@ -252,7 +266,25 @@ tester(x);
 
 ↪ Si les notifications deviennent trop massives, il existe plusieurs moyens de les limiter.
 
-↪
+#### Mode "Ne pas déranger", la méthode la plus efficace
+↪ Le mode "Ne pas déranger", est un statut qui indique au travers d'un icône rouge à côté de votre photo de profil que vous ne recevrez aucune notification.
+
+Pour l'activer, il faut cliquer sur votre **icône de profil** (et pas votre nom) et vous pourrez choisir différents statuts. Ici on veut le mode "Ne pas déranger".
+
+![Exemple de processus sur ordinateur](captures/discordHowToDnD.gif) ![Exemple de processus sur mobile](captures/discordHowToDnD_mobile.gif)
+
+
+#### Rendre muet
+Il est possible de rendre muet un salon, une catégorie ou un serveur tout entier.
+*(Rendre muet un serveur n'est disponible que sur la version ordinateur)*
+
+↪ Pour rendre muet un salon, une catégore ou un serveur il faut cliquer droit sur le nom de celui-ci, passer ça souris sur "Rendre muet ce <...>" et choisir la durée pour laquelle vous voulez rendre muet.
+
+↪ Vous pouvez ne plus le rendre muet en cliquant droit sur le salon et cliquer sur "Rétablir la voix de ce <...>".
+
+![Rendre muet sur ordinateur](captures/discordHowToMuteChannel.gif) ![Rendre muet sur mobile](captures/discordHowToMuteChannel_mobile.gif)
+*Exemple pour rendre muet un salon sur mobile et ordinateur*
+
 
 ### Paramètres, affichage
 
