@@ -1,6 +1,8 @@
 
 # Discord, logiciel alternatif de t'chat face au COVID-19
 
+Article écrit par [Logan Tann](https://github.com/LoganTann) et [Gradient](https://github.com/CubicFace), deux niveaux différents, deux lycées différents. L'article n'a pas été complêtement revu, et avec la fatigue, des erreurs de français peuvent survenir.
+
 ## Introduction
 
 ### Qu'est-ce que Discord ?
