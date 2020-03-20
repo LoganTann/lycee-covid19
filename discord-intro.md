@@ -79,7 +79,7 @@ La gestion des pièces jointes est assez pittoresque sur mobile. Je recommande d
 ↪ Entez votre message et appuyez sur la touche `[entrée]` pour envoyer. Pour sauter une ligne, appuyez sur `[entrée]` tout en maintenant la touche `[Majuscule]`.
 *À noter que cela n'est pas nécessaire pour la version mobile*
 
-↪ Pour ajouter des emojis, cliquez sur le petit émoji de la barre à droite. Une liste s'affichera. Les emojis sont codés en texte, entre des `:` (ex: `:smile:` affichera :smile:). D'autres options sont disponibles (telles que les Gif), je vous laisse découvrir cela.
+↪ Pour ajouter des emojis, cliquez sur le petit émoji de la barre à droite. Une liste s'affichera. Les emojis sont codés en texte, entre des `:` (ex: `:smile:` affichera 😃). D'autres options sont disponibles (telles que les Gif), je vous laisse découvrir cela.
 
 ↪ Les mentions font partie du système de Discord : mentionner quelqu'un lui fera afficher un message jaune, et forcera l'affichage d'une notification accompagnée de son petit indicateur rouge. Ces mentions peuvent parfois déranger, c'est pour cela qu'il faut les utiliser avec modération. 
 
@@ -97,7 +97,7 @@ Si ceci est affiché, vous êtes connectés :
 
 > *Si vous avez des problèmes lors d'appels vocaux, veuillez vous référer [ici](#voix--vid%c3%a9o).*
 
-↪ La fonction Live permet de partager son écran ou le contenu d'une application durant l'appel vocal groupé. Cela est particulièrement pratique pour faire cours sur un PowerPoint (ou autre). Si vous faites un cours sur webcam uniquement, YouTube propose un service de live qui est mieux adapté. *Si vous souhaitez faire les deux, l'utilisation d'un logiciel de stream tel qu'OBS est à proscrire, se référer [ici]()*
+↪ La fonction Live permet de partager son écran ou le contenu d'une application durant l'appel vocal groupé. Cela est particulièrement pratique pour faire cours sur un PowerPoint (ou autre). Si vous faites un cours sur webcam uniquement, YouTube propose un service de live qui est mieux adapté. *Si vous souhaitez faire les deux, l'utilisation d'un logiciel de stream tel qu'OBS est à proscrire, se référer [ici (partie non rédigée)](#). (La configuration est difficile, cela en vaut-il la peine ?)*
 
 ↪ Pour utiliser Live, vous devez être connecté à un serveur vocal et utiliser l'application de bureau (ne fonctionne pas sur navigateur). Cela fonctionne aussi bien sur Windows 7 que sur une distribution Linux ou Mac. Cliquez sur l’icône ![avec l'écran et la flèche qui se trouve juste avant le bouton pour raccrocher](captures/Discor_goLive_icon.PNG). 
 
@@ -120,6 +120,61 @@ Si tout va bien, une fenêtre s'affiche :
 > * Lors d'indications de raccourcis claviers, le signe `+` indique que la touche qui la précède doit être maintenu le long de la combinaison)
 > * Les clics droit sur souris seront traduits par des appuis long sur mobile, les menus sont similaires.
 > * Passer sa souris sur une option revient à cliquer sur l'option sur mobile.
+
+
+### Indésirable : Notifications, Catégories
+
+↪ Si les notifications deviennent trop massives, il existe plusieurs moyens de les limiter.
+
+#### Mode "Ne pas déranger", la méthode la plus efficace
+
+↪ Le mode "Ne pas déranger", est un statut qui indique au travers d'un icône rouge à côté de votre photo de profil que vous ne recevrez aucune notification.
+
+Pour l'activer, il faut cliquer sur votre **icône de profil** (et pas votre nom) et vous pourrez choisir différents statuts. Ici on veut le mode "Ne pas déranger".
+
+![Exemple de processus sur ordinateur](captures/discordHowToDnD.gif) ![Exemple de processus sur mobile](captures/discordHowToDnD_mobile.gif)
+
+*Exemple pour se mettre en mode "Ne pas déranger" sur mobile et ordinateur*
+
+#### Rendre muet
+
+Il est possible de rendre muet un salon, une catégorie ou un serveur tout entier. Si vous êtes un prof de philosophie, peut être serait-il utile de rendre muet le salon des maths ?
+
+↪ Pour rendre muet un salon, une catégore ou un serveur il faut cliquer droit sur le nom de celui-ci, passer ça souris sur "Rendre muet ce <...>" et choisir la durée pour laquelle vous voulez rendre muet.
+
+↪ Vous pouvez ne plus le rendre muet en cliquant droit sur le salon et cliquer sur "Rétablir la voix de ce <...>".
+
+![Rendre muet sur ordinateur](captures/discordHowToMuteChannel.gif) ![Rendre muet sur mobile](captures/discordHowToMuteChannel_mobile.gif)
+
+*Exemple pour rendre muet un salon sur mobile et ordinateur*
+
+#### Paramétrage des notifications
+
+On peut aussi changer quelles notifications seront utilisées pour un serveur ou un salon:
+
+* Pour un salon, il faut cliquer droit sur le nom, passer ça souris sur "Notifications" et choisir un réglage.
+* Pour un serveur tout entier, il faut simplement cliquer sur le nom du serveur.
+
+Une fois cliqué, différents réglages sont possibles, pour les salons et les serveurs on peut régler les notifications pour:
+
+* Qu'elles apparaissent selon le réglage défini pour ceux du serveur (salons uniquement)
+* Qu'elles apparaissent pour tous les messages
+* Qu'elles apparaissent pour les mentions uniquement
+* Qu'elles n'apparaissent pas du tout
+
+Pour les serveurs:
+
+* On peut choisir de les rendre muets ou non (un peu [comme tout à l'heure](#rendre-muet))
+* On peut choisir de supprimer les mentions `@everyone` et `@here`
+* On peut choisir de supprimer toutes les mentions de rôles
+* Choisir si on active les notifications push pour mobile
+* Et également choisir pour quels salons cela ne doit pas s'appliquer.
+
+![Exemple notification serveur PC](captures/discordNotificationSettings.gif)
+
+*Exemple de l'affichge des paramètres de notifications sur la version ordinateur*
+
+> *Il existe une dernière façon d'enlever les notifications exclusivement pour la version ordinateurs, voir: [Notifications](#notifications)*
 
 ### Écriture de messages avancés avec le Markdown
 
@@ -261,60 +316,6 @@ function tester(variable){
 
 tester(x);
 ```
-
-### Indésirable : Notifications, Catégories
-
-↪ Si les notifications deviennent trop massives, il existe plusieurs moyens de les limiter.
-
-#### Mode "Ne pas déranger", la méthode la plus efficace
-
-↪ Le mode "Ne pas déranger", est un statut qui indique au travers d'un icône rouge à côté de votre photo de profil que vous ne recevrez aucune notification.
-
-Pour l'activer, il faut cliquer sur votre **icône de profil** (et pas votre nom) et vous pourrez choisir différents statuts. Ici on veut le mode "Ne pas déranger".
-
-![Exemple de processus sur ordinateur](captures/discordHowToDnD.gif) ![Exemple de processus sur mobile](captures/discordHowToDnD_mobile.gif)
-
-*Exemple pour se mettre en mode "Ne pas déranger" sur mobile et ordinateur*
-
-#### Rendre muet
-
-Il est possible de rendre muet un salon, une catégorie ou un serveur tout entier. Si vous êtes un prof de philosophie, peut être serait-il utile de rendre muet le salon des maths ?
-
-↪ Pour rendre muet un salon, une catégore ou un serveur il faut cliquer droit sur le nom de celui-ci, passer ça souris sur "Rendre muet ce <...>" et choisir la durée pour laquelle vous voulez rendre muet.
-
-↪ Vous pouvez ne plus le rendre muet en cliquant droit sur le salon et cliquer sur "Rétablir la voix de ce <...>".
-
-![Rendre muet sur ordinateur](captures/discordHowToMuteChannel.gif) ![Rendre muet sur mobile](captures/discordHowToMuteChannel_mobile.gif)
-
-*Exemple pour rendre muet un salon sur mobile et ordinateur*
-
-#### Paramétrage des notifications
-
-On peut aussi changer quelles notifications seront utilisées pour un serveur ou un salon:
-
-* Pour un salon, il faut cliquer droit sur le nom, passer ça souris sur "Notifications" et choisir un réglage.
-* Pour un serveur tout entier, il faut simplement cliquer sur le nom du serveur.
-
-Une fois cliqué, différents réglages sont possibles, pour les salons et les serveurs on peut régler les notifications pour:
-
-* Qu'elles apparaissent selon le réglage défini pour ceux du serveur (salons uniquement)
-* Qu'elles apparaissent pour tous les messages
-* Qu'elles apparaissent pour les mentions uniquement
-* Qu'elles n'apparaissent pas du tout
-
-Pour les serveurs:
-
-* On peut choisir de les rendre muets ou non (un peu [comme tout à l'heure](#rendre-muet))
-* On peut choisir de supprimer les mentions `@everyone` et `@here`
-* On peut choisir de supprimer toutes les mentions de rôles
-* Choisir si on active les notifications push pour mobile
-* Et également choisir pour quels salons cela ne doit pas s'appliquer.
-
-![Exemple notification serveur PC](captures/discordNotificationSettings.gif)
-
-*Exemple de l'affichge des paramètres de notifications sur la version ordinateur*
-
-> *Il existe une dernière façon d'enlever les notifications exclusivement pour la version ordinateurs, voir: [Notifications](#notifications)*
 
 ### Paramètres
 
