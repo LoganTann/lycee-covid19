@@ -26,7 +26,7 @@ Discord est un service de t'chat gratuit similaire à Skype, IRC pour les plus v
 
 ↪ Ensuite, il vous faut **installer Discord** (ou pas...) :
 
-* Si vous êtes Professeur, je vous recommande d'installer [l'application de bureau Discord]().
+* Si vous êtes Professeur, je vous recommande d'installer [l'application de bureau Discord](https://discordapp.com/download).
 * Si vous êtes élèves et que vous débutez sur Discord, installer l'application mobile peut être un bon choix pour avoir des notifications. Je vous recommande également d'utiliser la [Version en ligne de Discord](https://discordapp.com/channels/@me) *(le lien ne marche __qu'après inscription__)* sur PC en journée, qui ne nécessite aucune installation
 
 ↪ Enfin, une fois le compte créé, il est nécessaire de **rejoindre le serveur de t'chat** : Il suffit simplement de suivre le lien menant vers le serveur de votre classe (généralement le lien ressemble à ça: `https://discord.gg/xxxxxxx`). Si le serveur a été créé à titre *éducatif*, il est mieux de préciser **votre nom et prénom** d'une manière ou d'une autre: soit en envoyant le message, soit en vous renommant.
@@ -67,16 +67,16 @@ En cliquant sur un salon de discussion (ou channel), vous aurez accès à son hi
 
 ![Barre de message](captures/msgbar.jpg)
 
-↪ Le logo ![(:heavy_plus_sign:)](captures/discordSendFile.PNG) est pour envoyer une pièce jointe. Elle est limitée à 8 Mo (on peut l'augmenter grâce à un [boost du serveur](#booster-un-serveur).).
+↪ Le logo ➕ est pour envoyer une pièce jointe. Elle est limitée à 8 Mo (on peut l'augmenter grâce à un [boost du serveur](#booster-un-serveur).).
 
 > Si vous envoyez des PowerPoint Microsoft, privilégiez l'envoi sur [OneDrive](https://onedrive.live.com/), qui propose une prévisualisation en ligne basique.
 >
 > Sinon, si le fichier dépasse tout de même la limite, utilisez [Google Drive](https://drive.google.com/).
-> D'autres services de drive/cloud peuvent aussi être utilisé (comme [Dropbox](https://www.dropbox.com/) ou [Mega](https://mega.nz/)) mais il est recommandé d'utilser les deux cité dessus.
+> D'autres services de drive/cloud peuvent aussi être utilisé (comme [Dropbox](https://www.dropbox.com/) ou [Mega](https://mega.nz/)) mais il est recommandé d'utilser les deux cités au dessus.
 
 La gestion des pièces jointes est assez pittoresque sur mobile. Je recommande donc l'utilisation d'un PC pour l'envoi chez les professeurs.
 
-↪ Entez votre message et appuyez sur la touche `[entrée]` :leftwards_arrow_with_hook: pour envoyer. Pour sauter une ligne, appuyez sur `[entrée]` (:leftwards_arrow_with_hook:) tout en maintenant la touche `[Majuscule]` (:arrow_up:).
+↪ Entez votre message et appuyez sur la touche `[entrée]` pour envoyer. Pour sauter une ligne, appuyez sur `[entrée]` tout en maintenant la touche `[Majuscule]`.
 *À noter que cela n'est pas nécessaire pour la version mobile*
 
 ↪ Pour ajouter des emojis, cliquez sur le petit émoji de la barre à droite. Une liste s'affichera. Les emojis sont codés en texte, entre des `:` (ex: `:smile:` affichera :smile:). D'autres options sont disponibles (telles que les Gif), je vous laisse découvrir cela.
@@ -99,7 +99,7 @@ Si ceci est affiché, vous êtes connectés :
 
 ↪ La fonction Live permet de partager son écran ou le contenu d'une application durant l'appel vocal groupé. Cela est particulièrement pratique pour faire cours sur un PowerPoint (ou autre). Si vous faites un cours sur webcam uniquement, YouTube propose un service de live qui est mieux adapté. *Si vous souhaitez faire les deux, l'utilisation d'un logiciel de stream tel qu'OBS est à proscrire, se référer [ici]()*
 
-↪ Pour utiliser Live, vous devez être connecté à un serveur vocal et utiliser l'application de bureau (ne fonctionne pas sur navigateur). Cela fonctionne aussi bien sur Windows 7 que sur une distribution Linux (non testé sur Mac en revanche). Cliquez sur l’icône ![avec l'écran et la flèche qui se trouve juste avant le bouton pour raccrocher](captures/Discor_goLive_icon.PNG). 
+↪ Pour utiliser Live, vous devez être connecté à un serveur vocal et utiliser l'application de bureau (ne fonctionne pas sur navigateur). Cela fonctionne aussi bien sur Windows 7 que sur une distribution Linux ou Mac. Cliquez sur l’icône ![avec l'écran et la flèche qui se trouve juste avant le bouton pour raccrocher](captures/Discor_goLive_icon.PNG). 
 
 ↪ Il est possible de changer le contenu que vous diffusez en appuyer sur cette même icône.
 
@@ -129,7 +129,7 @@ Il est possible de styliser vos messages avec du Markdown.
 
 ↪ Le Markdown est un language créé par John Gruber en 2004 en collaboration avec Aaron Swartz pour la syntaxe.
 
-↪ Le but principal est la *lisibilité* - que le language soit visible en tant que tel, sans pouvoir remarquer qu'il a été balisé avec des balises ou des instructions de mise en page.
+↪ Le but principal est la *lisibilité* - que le language soit visible en tant que tel, sans pouvoir remarquer qu'il a été sytlisé avec des balises ou des instructions de mise en page.
 
 *([Source: Wikipedia en anglais](https://en.wikipedia.org/wiki/Markdown))*
 
@@ -145,7 +145,7 @@ Il est possible de styliser vos messages avec du Markdown.
 >
 > * Mac: `⌥ (Option)`+`n`
 >
-> Pour faire le signe ` sur ordinateur:
+> Pour faire le signe \` sur ordinateur:
 >
 > * Windows: `Alt Gr`+`è` suivi d'un espace.
 > * Mac: Une touche est assignée, à côté de la touche `ù`.
@@ -278,7 +278,7 @@ Pour l'activer, il faut cliquer sur votre **icône de profil** (et pas votre nom
 
 #### Rendre muet
 
-Il est possible de rendre muet un salon, une catégorie ou un serveur tout entier.
+Il est possible de rendre muet un salon, une catégorie ou un serveur tout entier. Si vous êtes un prof de philosophie, peut être serait-il utile de rendre muet le salon des maths ?
 
 ↪ Pour rendre muet un salon, une catégore ou un serveur il faut cliquer droit sur le nom de celui-ci, passer ça souris sur "Rendre muet ce <...>" et choisir la durée pour laquelle vous voulez rendre muet.
 
@@ -355,11 +355,11 @@ Vérifiez que vous utilisez la bonne entrée et la bonne sortie:
 ↪ Ce menu, vous permet de configurer quel mode d'entrée utiliser. On a ici deux choix:
 
 * Activité vocale
-* Push-to-Talk
+* Appuyer pour parler (Push-to-Talk)
 
 ![Menu du mode d'entrée](captures/inputMode.PNG)
 
-Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que d'utiliser une touche de clavier pour communiquer.
+Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que d'utiliser une touche de clavier pour communiquer. Néamoins, le mode "Appuyer pour Parler" est pratique si vous avez des bruits de fond, et d'activer le micro seulement lorsque vous le voulez.
 
 ##### ► Sensibilité du micro
 
@@ -414,7 +414,7 @@ Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que
 
 ↪ Les discussions sont ainsi vite organisées et cadrées.
 
-# Discord Nitro et boost de serveur
+# Discord Nitro et boost de serveur (bonus)
 
 ## Qu'est-ce que Discord Nitro?
 
@@ -434,7 +434,7 @@ Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que
 
 ↪ Un membre possédant [Discord Nitro](#quest-ce-que-discord-nitro), boost automatiquement le serveur de 2 Boosts.
 
-# L'utilisation d'un logiciel de streaming comme OBS afin d'utiliser la webcam en mode Live. (à rédiger.)
+# L'utilisation d'un logiciel de streaming comme OBS afin d'utiliser la webcam en mode Live. (bonus) (à rédiger.)
 
 # L'article sera mis à jour ultérieurement
 
