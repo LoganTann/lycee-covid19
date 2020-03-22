@@ -3,6 +3,8 @@
 
 Article écrit par [Logan Tann](https://github.com/LoganTann) et [Gradient](https://linktr.ee/Gradient_), deux niveaux différents, deux lycées différents. L'article n'a pas été complêtement revu, et avec la fatigue, des erreurs de français peuvent survenir.
 
+> *Cet article n'est pas complet, nous seront très ouverts au collaborations par **Pull Requests**, Logan Tann fera une vérification express de votre Pull. Si vous voulez nous aider, forkez et rédigez!*
+
 ## Introduction
 
 ### Qu'est-ce que Discord ?
