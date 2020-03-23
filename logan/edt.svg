@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="edt.svg">
+   sodipodi:docname="edt.svg"
+   inkscape:export-filename="/home/logan/Téléchargements/cours/lpl-covid19/logan/edt.svg.png"
+   inkscape:export-xdpi="193"
+   inkscape:export-ydpi="193">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="346.12413"
-     inkscape:cy="250.02322"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="457.54479"
+     inkscape:cy="574.45876"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,6 +68,22 @@
        x="1.2805068"
        y="49.587692"
        width="287.85419" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g973"
+       id="use955"
+       transform="translate(2.8868678,72.572465)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g825"
+       id="use959"
+       transform="translate(-57.660874,109.73978)"
+       width="100%"
+       height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -78,7 +97,7 @@
          style="stroke-width:0.26458332" /></text>
     <g
        id="g825"
-       transform="matrix(0.98250696,0,0,0.97147405,13.823547,-33.792814)">
+       transform="matrix(0.98250696,0,0,0.97147405,71.275928,-143.78388)">
       <rect
          y="142.02977"
          x="11.717261"
@@ -103,7 +122,7 @@
        y="0"
        xlink:href="#g825"
        id="use827"
-       transform="translate(-0.17411858,73.609826)"
+       transform="translate(-57.660874,183.22291)"
        width="100%"
        height="100%" />
     <use
@@ -111,7 +130,7 @@
        y="0"
        xlink:href="#use827"
        id="use829"
-       transform="translate(105.22858,-0.37797619)"
+       transform="translate(105.26295)"
        width="100%"
        height="100%" />
     <use
@@ -119,7 +138,7 @@
        y="0"
        xlink:href="#use829"
        id="use831"
-       transform="translate(0.37797619,-73.705357)"
+       transform="translate(0,-73.483134)"
        width="100%"
        height="100%" />
     <text
@@ -174,7 +193,7 @@
          x="155.94449"
          y="207.48604"
          style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
-         id="tspan838-5">Sur discord</tspan></text>
+         id="tspan838-5">Sur skype</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -230,7 +249,7 @@
          style="stroke-width:0.26458332" /></text>
     <g
        id="g973"
-       transform="translate(13.229169,-38.100018)">
+       transform="translate(10.205359,-110.67145)">
       <rect
          y="104.98809"
          x="12.095238"
@@ -282,53 +301,9 @@
        y="0"
        xlink:href="#g973"
        id="use975"
-       transform="translate(-0.13694172,185.36587)"
+       transform="translate(2.8868678,257.40813)"
        width="100%"
        height="100%" />
-    <g
-       id="g973-3"
-       transform="translate(13.715888,109.89498)">
-      <rect
-         y="104.98809"
-         x="11.566072"
-         height="35.764481"
-         width="51.128017"
-         id="rect916-6"
-         style="opacity:1;vector-effect:none;fill:#405dba;fill-opacity:0.48979595;stroke:#444444;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82517004px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25849125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         x="23.211473"
-         y="111.42929"
-         id="text820-0-0"
-         transform="scale(1.0056624,0.99436948)"><tspan
-           sodipodi:role="line"
-           id="tspan818-9-6"
-           x="23.211473"
-           y="111.42929"
-           style="font-weight:bold;font-size:4.48051548px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.25849125">RÉVISIONS</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="25.79151"
-       y="226.03993"
-       id="text858"><tspan
-         sodipodi:role="line"
-         x="25.79151"
-         y="226.03993"
-         style="stroke-width:0.26458332"
-         id="tspan860">Revoir les maths</tspan><tspan
-         sodipodi:role="line"
-         x="25.79151"
-         y="232.21355"
-         style="stroke-width:0.26458332"
-         id="tspan864">Cours de physique</tspan><tspan
-         sodipodi:role="line"
-         x="25.79151"
-         y="238.38715"
-         style="stroke-width:0.26458332"
-         id="tspan866">envoyé</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -345,5 +320,332 @@
          y="270.40106"
          style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
          id="tspan872">si c'est pas fait</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g825"
+       id="use872"
+       transform="translate(-57.660874,220.64065)"
+       width="100%"
+       height="100%" />
+    <text
+       id="text880"
+       y="228.22011"
+       x="50.73381"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan874"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="228.22011"
+         x="50.73381"
+         sodipodi:role="line">16:00 à 18:00</tspan><tspan
+         id="tspan876"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="236.15761"
+         x="50.73381"
+         sodipodi:role="line">Physique</tspan><tspan
+         id="tspan878"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="242.8466"
+         x="50.73381"
+         sodipodi:role="line">Sur blackboard</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="249.02022"
+         x="50.73381"
+         sodipodi:role="line"
+         id="tspan882">ou zoom</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g825"
+       id="use884"
+       transform="translate(-4.6443905,72.680487)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g825"
+       id="use886"
+       transform="translate(153.15601,201.97764)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="102.51655"
+       y="79.675468"
+       id="text896"><tspan
+         sodipodi:role="line"
+         x="102.51655"
+         y="79.675468"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         id="tspan888">16:00 à 18:00</tspan><tspan
+         sodipodi:role="line"
+         x="102.51655"
+         y="87.612968"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         id="tspan890">Physique</tspan><tspan
+         sodipodi:role="line"
+         x="102.51655"
+         y="94.301964"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         id="tspan892">Sur blackboard</tspan><tspan
+         id="tspan894"
+         sodipodi:role="line"
+         x="102.51655"
+         y="100.47558"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332">ou zoom</tspan></text>
+    <text
+       id="text906"
+       y="208.94333"
+       x="262.02249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan898"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="208.94333"
+         x="262.02249"
+         sodipodi:role="line">16:00 à 18:00</tspan><tspan
+         id="tspan900"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="216.88083"
+         x="262.02249"
+         sodipodi:role="line">Physique</tspan><tspan
+         id="tspan902"
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="223.56982"
+         x="262.02249"
+         sodipodi:role="line">Sur blackboard</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.26458332"
+         y="229.74344"
+         x="262.02249"
+         sodipodi:role="line"
+         id="tspan904">ou zoom</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g973"
+       id="use908"
+       transform="translate(55.903351,183.11489)"
+       width="100%"
+       height="100%" />
+    <text
+       id="text919"
+       y="187.42989"
+       x="79.553268"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan917"
+         style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
+         y="187.42989"
+         x="79.553268"
+         sodipodi:role="line">Aujd : </tspan><tspan
+         style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
+         y="192.36877"
+         x="79.553268"
+         sodipodi:role="line"
+         id="tspan930">Maths Sujet D p 260.</tspan><tspan
+         style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
+         y="197.30766"
+         x="79.553268"
+         sodipodi:role="line"
+         id="tspan934">chap 10 doit être maîtrisé</tspan><tspan
+         style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
+         y="202.24655"
+         x="79.553268"
+         sodipodi:role="line"
+         id="tspan936">donc bien revoir les exos</tspan><tspan
+         style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
+         y="207.18544"
+         x="79.553268"
+         sodipodi:role="line"
+         id="tspan988">Esp (segura) : Réfléchir</tspan><tspan
+         style="font-size:3.52777767px;line-height:1;stroke-width:0.26458332"
+         y="212.12433"
+         x="79.553268"
+         sodipodi:role="line"
+         id="tspan990">problématique ??</tspan></text>
+    <g
+       transform="translate(10.393091,-191.06993)"
+       id="g944">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#ba4040;fill-opacity:0.48979594;stroke:#444444;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect938"
+         width="51.128017"
+         height="72.662865"
+         x="12.095238"
+         y="104.98809" />
+      <text
+         transform="scale(1.0056624,0.99436948)"
+         id="text942"
+         y="111.42929"
+         x="26.244823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82517004px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25849125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;font-size:4.48051548px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.25849125"
+           y="111.42929"
+           x="26.244823"
+           id="tspan940"
+           sodipodi:role="line">DEVOIRS</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.98250696,0,0,0.97147405,132.35157,-143.78388)"
+       id="g953">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#393bac;fill-opacity:0.63157892;stroke:#433ec4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect946"
+         width="52.160706"
+         height="36.663712"
+         x="11.717261"
+         y="142.02977" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="28.940016"
+         y="147.69939"
+         id="text951"><tspan
+           sodipodi:role="line"
+           id="tspan949"
+           x="28.940016"
+           y="147.69939"
+           style="font-weight:bold;font-size:4.58611107px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">COURS</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g953"
+       id="use961"
+       transform="translate(-65.720032,109.73978)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="82.550003"
+       y="117.83926"
+       id="text965"><tspan
+         sodipodi:role="line"
+         id="tspan963"
+         x="82.550003"
+         y="117.83926"
+         style="stroke-width:0.26458332">SVT : TP à rendre</tspan><tspan
+         sodipodi:role="line"
+         x="82.550003"
+         y="124.01288"
+         style="stroke-width:0.26458332"
+         id="tspan967">pour le soir, plus</tspan><tspan
+         sodipodi:role="line"
+         x="82.550003"
+         y="130.18648"
+         style="stroke-width:0.26458332"
+         id="tspan969">d'infos à venir</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g953"
+       id="use992"
+       transform="translate(-13.473566,72.680487)"
+       width="100%"
+       height="100%" />
+    <text
+       id="text1000"
+       y="77.695686"
+       x="156.39928"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="77.695686"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1007">HISTOIRE-GÉO</tspan><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="81.399857"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1043">Croquis : apprendre et</tspan><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="85.104019"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1017">s’entrainer à reproduire les</tspan><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="88.808182"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1033">croquis et leurs légendes</tspan><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="92.512352"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1011">Croquis sur Les dynamiques</tspan><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="96.216522"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1027">territoriales aux USA +</tspan><tspan
+         style="font-size:3.52777767px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="99.920685"
+         x="156.39928"
+         sodipodi:role="line"
+         id="tspan1031">au Brésil</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g953"
+       id="use1045"
+       transform="translate(39.61996,109.73978)"
+       width="100%"
+       height="100%" />
+    <text
+       id="text1055"
+       y="116.78092"
+       x="184.67926"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan1053"
+         style="stroke-width:0.26458332"
+         y="116.78092"
+         x="184.67926"
+         sodipodi:role="line">Maths : revoir cours</tspan><tspan
+         style="stroke-width:0.26458332"
+         y="122.95453"
+         x="184.67926"
+         sodipodi:role="line"
+         id="tspan1062">sur produit scalaire</tspan><tspan
+         style="stroke-width:0.26458332"
+         y="129.12814"
+         x="184.67926"
+         sodipodi:role="line"
+         id="tspan1064">première S</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g944"
+       id="use1074"
+       transform="translate(213.83126,152.97095)"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="261.77267"
+       y="80.514137"
+       id="text1078"><tspan
+         sodipodi:role="line"
+         id="tspan1076"
+         x="261.77267"
+         y="80.514137"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">Philosophie: revoir</tspan><tspan
+         sodipodi:role="line"
+         x="261.77267"
+         y="86.687744"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1082">le cours les correc-</tspan><tspan
+         sodipodi:role="line"
+         x="261.77267"
+         y="92.861359"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1096">tions, et les textes</tspan></text>
   </g>
 </svg>
