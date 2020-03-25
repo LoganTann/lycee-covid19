@@ -509,7 +509,7 @@ Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que
 
 ↪ Un membre possédant [Discord Nitro](#quest-ce-que-discord-nitro), boost automatiquement le serveur de 2 Boosts.
 
-# L'utilisation d'un logiciel de streaming comme OBS afin d'utiliser la webcam en mode Live. (bonus) (à rédiger.)
+# Afficher sa webcam en mode Live: OBS (Méthode 1)
 
 ## Qu'est-ce qu'OBS?
 
@@ -540,7 +540,7 @@ Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que
 
 ↪ Pour les option vidéo nous vous recommandons de laisser les paramètres tels qu'ils sont.
 
-↪ Laissez OBS faire son trvail, ensuite appuyez sur "Appliquer les paramètres".
+↪ Laissez OBS faire son travail, ensuite appuyez sur "Appliquer les paramètres".
 
 > *Vous pouvez relancer cet assistant en allant dans "Outils" tout en haut de la fenêtre (sur Windows et Linux, pour mac c'est tout en haut de l'écran) et cliquer sur "Assistant d'auto-configuration"*
 
@@ -576,4 +576,28 @@ Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que
 
 > *À noter: le son de votre ordinateur ne sera pas diffusé, les manipulations sont encore plus complexes. Encore une fois, n'hésitez pas à nous contacter.*
 
+# Afficher sa webcam en mode Live: VLC (Méthode 2)
+
+Une méthode plus simple pour afficher sa webcam : VLC. Néanmoins, les screenshoots et raccourcis claviers ont été faites sur un système d'exploitation GNU/Linux (et dédiée à un prof qui utilisait Linux), donc, la configuration sur Windows peut être différente.
+
+Afin d'éviter de mauvaises surprises, vérifiez bien que les autres pourront vous entendre sur un vocal normal. La vidéo, c'est cool mais le son, c'est mieux !
+
+Tout d'abord, ouvrez VLC. Utilisez le raccourci `CTRL + C` (`⌘ (command) + C` sur Mac) ou allez dans médias -> sélectionner un périphérique de capture.
+
+![Capture d'écran VLC](https://user-images.githubusercontent.com/28659185/77260254-2c6dce80-6c87-11ea-8e1b-77810f33b199.png)
+
+Dans mode de capture, choisissez Vidéo Camera (affichage dépend de votre PC, mais vous comprendrez). Les choix sont limités car proposés dans le menu déroulant, donc pas d'inquiétude. Par contre, si rien n'est disponible ou seul "desktop" est affiché, alors votre PC ne peut être compatible.
+Dans nom du périphérique de capture, faites un peu par tâtonnement. choisissez une valeur proposée par la liste déroulante, et cliquez sur le bouton "lire". Si cela ne fonctionne pas après 10 secondes, essayez une autre valeur. Si cela ne fonctionne toujours pas et qu'il n'y a pas d'autres choix, votre PC n'est pas compatible.
+
+Connectez-vous à un salon vocal discord, cliquez sur le bouton Go Live, et choisissez VLC.
+
+![Screen Go Live Discord avec VLC](https://user-images.githubusercontent.com/28659185/77260255-2d066500-6c87-11ea-9887-963bf3a518d3.png)
+
+Normalement, tout est bon. Ça fera comme si vous faisiez un live youtube de votre webcam, mais sur discord !
+
 # L'article sera mis à jour fréquemment.
+
+Sections à rédiger:
+
+* Appels vidéos ou vocaux en privé
+* Et on ne sait pas encore...
