@@ -117,7 +117,7 @@ Si tout va bien, une fenêtre s'affiche :
 
 ↪ Vous pouvez arrêter de diffuser à tout moment, en cliquant sur l'icône ![avec écran à côté du nom du contenu que vous diffusé](captures/Discor_stop_goLive_icon.PNG).
 
-### Amis, messages privées et groupes privés
+### Amis, messages privées, groupes privés et appels vidéos.
 
 ↪ Ajouter des amis peut-être très pratique, notamment pour pouvoir dans la plupart des cas, commencer des messages privées et passer des appels appels téléphoniques privé avec ceux-ci.
 
@@ -151,7 +151,9 @@ Si tout va bien, une fenêtre s'affiche :
 * La liste des utilisateurs bloqués
 * Le bouton "Ajouter un ami"
 
-![Liste des amis]
+↪ Sur mobile, ça affiche tous les amis, mais de manière catégorisée.
+
+![Liste des amis](captures/friendList.PNG)
 
 #### Messages privés (dit MP)
 
