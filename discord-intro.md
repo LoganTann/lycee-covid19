@@ -1,7 +1,9 @@
 
 # Discord, logiciel alternatif de t'chat face au COVID-19
 
-Article écrit par [Logan Tann](https://github.com/LoganTann) et [Gradient](https://github.com/CubicFace), deux niveaux différents, deux lycées différents. L'article n'a pas été complêtement revu, et avec la fatigue, des erreurs de français peuvent survenir.
+Article écrit par [Logan Tann](https://github.com/LoganTann) et [Gradient](https://linktr.ee/Gradient_), deux niveaux différents, deux lycées différents. L'article n'a pas été complêtement revu, et avec la fatigue, des erreurs de français peuvent survenir.
+
+> *Cet article n'est pas complet, nous seront très ouverts au collaborations par **Pull Requests**, Logan Tann fera une vérification express de votre Pull. Si vous voulez nous aider, forkez et rédigez!*
 
 ## Introduction
 
@@ -114,6 +116,70 @@ Si tout va bien, une fenêtre s'affiche :
 ↪ Choisissez une application ou un écran à diffuser et cliquez sur `[Passer au direct]`. Ainsi, le contenu que vous aviez choisi de diffuser sera visible par tous les utilisateurs connectés au salon vocal.
 
 ↪ Vous pouvez arrêter de diffuser à tout moment, en cliquant sur l'icône ![avec écran à côté du nom du contenu que vous diffusé](captures/Discor_stop_goLive_icon.PNG).
+
+### Amis, messages privées, groupes privés et appels vidéos.
+
+↪ Ajouter des amis peut-être très pratique, notamment pour pouvoir dans la plupart des cas, commencer des messages privées et passer des appels appels téléphoniques privé avec ceux-ci.
+
+↪ Et si on en a assez, on pourra même créer des groupes privés de 10 personnes (un peu comme en messagerie instantanée mais plus restreint); généralement, c'est très peu utilisé.
+
+↪ Pour accéder à la liste de vos messages privés, il faut appuyer sur le logo ![de Discord](captures/homeButton.PNG) tout en haut de la liste des serveurs.
+
+![Illustration liste des serveurs](captures/serverListChop.PNG)
+
+↪ Ainsi vous arriverez sur cette interface où vous pourrez voir la liste de vos messages privés, la dernière conversation que vous avez eu en mesage privé, et aussi le bouton permettant d'accéder à la liste de vos amis.
+
+↪ Sur la barre de recherche en haut à gauche, vous pourrez:
+
+* Chercher ou commencer une conversation avec une personne
+* Chercher un groupe
+* Accéder au salon d'un serveur.
+
+#### Amis
+
+↪ Pour identifier chaque utilisateur, on utilise un  __Discord Tag__. Le Discord Tag est composé du nom d'inscription et d'un hashtag avec 4 chiffres. Un Discord Tag est ainsi formé de cette manière: `Nom#XXXX`.
+
+↪ Pour voir la liste des amis, il faut appuyer sur le bouton `Amis`
+
+↪ Vous arriverez sur la liste des amis en ligne.
+
+↪ Sur cette page, différents onglets son disponibles:
+
+* La liste des amis en lignes
+* La liste de tous les amis
+* La liste des demandes d'amis en attente (entrantes et sortantes)
+* La liste des utilisateurs bloqués
+* Le bouton "Ajouter un ami"
+
+↪ Sur mobile, ça affiche tous les amis, mais de manière catégorisée.
+
+![Liste des amis](captures/friendList.PNG)
+
+#### Messages privés (dit MP)
+
+↪ Sur ce menu, vous pourrez parler à une personne en privé comme si vous étiez dans un salon sur un serveur (sauf que personne voit ce que vous écrivez à par vous mêmes).
+
+![Illustration interface DM](captures/DMInterface.PNG)
+
+↪ Pour accéder à la conversation de messages privés d'une autre personne, il suffit tout simplement de cliquer sur le nom de celle-ci (cliquer droit ou un appui long sur mobile, permettra d'accéder à des paramètres liés à cette personne).
+
+#### Groupes privés
+
+↪ Un groupe permet de pouvoir rassembler un minimum de 3 personnes et un maximum de 10 personnes dans une même conversation privée. Pratique pour faire des appels en vidéoconférence ou encore des partages d'écrans.
+
+↪ Il est possible de changer le nom du groupe en cliquant sur le nom d'origine (sur mobile il faudra appuyer long sur le nom du groupe dans la liste des messages privés et cliquer sur "Changer le nom du groupe") et taper le nom desiré.
+
+↪ Il est possible de changer l'icône du groupe en cliquant droit (appui long sur mobile) sur son nom dans la liste des messages privés et cliquer sur "Changer l'icône du groupe", vous pourrez ainsi choisir une image de votre choix.
+
+#### Commencer un MP ou un groupe
+
+↪ Pour commencer un MP ou un groupe privé, il suffit d'appuyer sur le bouton ![plus](captures/miniPlusBtn.PNG) à côté du label "Messages privés". Une fenêtre s'affichera alors ou vous pourrez cocher des utilisateurs (si vous voulez créer un groupe), ou chercher manuellement un ou plusieurs utilisateurs grâce à leur Discord Tag. (noter que pour certaines personnes, l'envoi des message privés n'est autorisé seulement si vous êtes ami avec celle-ci).
+
+> *La méthode ci-dessus n'est valable que pour la version ordinateur seulement*
+
+↪ Alternativement, vous pouvez utiliser cette méthode en allant dans la liste des amis et en cliquant sur le bouton ![en forme de bulle de message avec un signe plus](captures/newDMFriends.PNG) en haut à droite. *(marche pour mobile aussi)*
+
+↪ Vous pouvez créer un groupe à partir de la conversation d'une personne en appuyant sur le bouton ![en forme de personne avec le signe plus](captures/newGroup.PNG) en haut à droite. Cela revient à faire les mêmes étapes qu'au-dessus sauf que vous ne devez pas inclure le nom de la personne depuis qui vous avez utilisé cette méthode, puisqu'elle sera inclue dans le groupe automatiquement.
 
 ## Utilisation avancée
 
@@ -333,6 +399,12 @@ tester(x);
 
 ![Voici à quoi ressemble à peu près l'interface des paramètres](captures/settingsDiscord.PNG)
 
+#### Compte
+
+↪ Sur ce menu, vous pourrez changer votre nom, votre photo de profil, votre e-mail et votre mot de passe. Vous pourrez aussi mettre en place des sytèmes alternatifs d'authentification pour plus de sécurité.
+
+![Menu mon compte sur Discord](captures/accoutSettings.PNG)
+
 #### Voix & vidéo
 
 ↪ La voix et la vidéo sont importantes dans Discord. C'est pour cela qu'il est important de bien configurer son système vocal et vidéo. Généralement, c'est de la que vient les principaux problèmes basiques tels que le silence lorsque vous parlez, vous n'entendez pas les autres etc.
@@ -437,7 +509,95 @@ Nous vous recommandons d'utiliser l'activité vocale, cela est plus intuitif que
 
 ↪ Un membre possédant [Discord Nitro](#quest-ce-que-discord-nitro), boost automatiquement le serveur de 2 Boosts.
 
-# L'utilisation d'un logiciel de streaming comme OBS afin d'utiliser la webcam en mode Live. (bonus) (à rédiger.)
+# Afficher sa webcam en mode Live: OBS (Méthode 1)
 
-# L'article sera mis à jour ultérieurement
+## Qu'est-ce qu'OBS?
 
+> *[GitHub (obsproject/obs-studio)](https://github.com/obsproject/obs-studio)*
+>
+> *[Site d'OBS](https://obsproject.com/)*
+
+↪ OBS (pour "Open Broadcaster Software") est un logiciel libre (open source) de streaming qui permet à l'origine de pouvoir diffuser du contenu en direct vers diférentes plateformes. Ici, il sera détourné afin de pouvoir diffuser son contenu lors de partages d'écrans ou de Live sur des vocaux.
+
+> *À noter que nous n'aborderons pas toutes les fonctionalités d'OBS, nous aborderons seulement les manipulations à faire pour utiliser OBS avec le mode Live sur Discord.*
+> *Si vous avez des problèmes avec l'utilisation d'OBS, n'hesitez pas à nous contacter sur Discord:*
+>
+> * *Logan Tann: ShinProg#2885*
+> * *Gradient: Mr. Gradient#8873*
+>
+> *Pleins de tutoriels sont disponibles sur YouTube et sur Internet si vous voulez en savoir plus sur OBS.*
+
+↪ Tout d'abord, il faut télécharger OBS Studio [ici: https://obsproject.com](https://obsproject.com). Choisissez votre système d'exploitation, et suivez les étapes d'installation.
+
+## Mise en place avec le mode Live de Discord
+
+↪ Lorsque vous lancerez OBS Studio pour la première fois, il vous demandera si vous voulez lancer l'assistant d'auto-configuration. On va cliquer sur "Oui".
+
+↪ Ensuite vous aurez le choix entre:
+
+* Optimiser pour le streaming, enregistrer est secondaire
+* Optimiser juste pour l'enregistrement, je ne streame pas (recommandé, puisque vous ne streamerez pas sur une plateforme)
+
+↪ Pour les option vidéo nous vous recommandons de laisser les paramètres tels qu'ils sont.
+
+↪ Laissez OBS faire son travail, ensuite appuyez sur "Appliquer les paramètres".
+
+> *Vous pouvez relancer cet assistant en allant dans "Outils" tout en haut de la fenêtre (sur Windows et Linux, pour mac c'est tout en haut de l'écran) et cliquer sur "Assistant d'auto-configuration"*
+
+↪ OBS marche par système de scènes. Une scène contient des sources. Par défaut il vous a ajouté une scène vide. Ici nous allons ajouter 2 sources: Votre écran, et votre webcam.
+
+> *Nous vous recommandons de diffuser l'entièreté de votre écran, les étapes pour diffuser une application sont plus laborieuses.*
+
+![OBS au début](captures/obsEmpty.PNG)
+
+↪ Pour ajouter une source, il faut aller dans la sections "Sources" et cliquer sur le signe ➕ pour ajouter une source. *(alternativement le signe ➖ permet de retirer une source et le signe ⚙ permet de configurer une sources, les flèches permettent de changer l'ordre d'apparition.)*
+
+↪ Dans le menu qui apparaît, cliquer sur "Capture d'écran". Ensuite définissez un nom pour cette source (facultatif) et confirmez avec "Ok".
+
+↪ Dans le menu qui suit cocher "Capturer le curseur" et cliquer sur "OK" pour terminer.
+
+> À part si vous avez plusiseurs écrans, l'écran à choisir sera toujours le même
+
+↪ Cliquez sur le cadenas afin de pouvoir verouiller la source (si vous cliquez par malheure sur la source il n'arrivera rien sur celle-ci)
+
+↪ On va ajouter une deuxième source qui sera un "Appareil de capture vidéo". Dans le menu qui suivra, vous devrez choisir à partir du menu déroulant votre webcam. Ne vous inquiétez pas des autres paramètres et cliquez sur "OK".
+
+↪ Vous pouvez déplacer et refimmensionner l'image de votre webcam ou vous voulez sur l'écran en le faisant glisser là où vous voulez:
+
+![Exemple de configuration](captures/obsSizeMove.gif)
+
+↪ Maintenant, cliquez droit n'importe où sur l'aperçu, et cliquez sur "Projecteur fenêtré (aperçu)". Une fenêtre de l'aperçu s'affiche.
+
+↪ Redimensionez la fenêtre pour qu'elle soit plus grande (mais restez raisonable pour garder de la place), __laissez la fenêtre ouverte__, c'est cette fenêtre qu'on utilisera pour diffuser le contenu sur Discord.
+
+↪ Maintenant, suivez les étapes pour [utiliser le mode Live sur Discord](#vocal-live-groupes-priv%c3%a9s-pour-vocal), sauf qu'à la place de diffuser application normale, vous diffusez la fenêtre qu'on vient de créer (la fenêtre doit s'appeler "OBS Projecteur fenêtré" ou "OBS Projector Window"). 
+
+↪ Ainsi, vous avez votre écran, avec la webcam diffusé en mode Live.
+
+> *À noter: le son de votre ordinateur ne sera pas diffusé, les manipulations sont encore plus complexes. Encore une fois, n'hésitez pas à nous contacter.*
+
+# Afficher sa webcam en mode Live: VLC (Méthode 2)
+
+Une méthode plus simple pour afficher sa webcam : VLC. Néanmoins, les screenshoots et raccourcis claviers ont été faites sur un système d'exploitation GNU/Linux (et dédiée à un prof qui utilisait Linux), donc, la configuration sur Windows peut être différente.
+
+Afin d'éviter de mauvaises surprises, vérifiez bien que les autres pourront vous entendre sur un vocal normal. La vidéo, c'est cool mais le son, c'est mieux !
+
+Tout d'abord, ouvrez VLC. Utilisez le raccourci `CTRL + C` (`⌘ (command) + C` sur Mac) ou allez dans médias -> sélectionner un périphérique de capture.
+
+![Capture d'écran VLC](https://user-images.githubusercontent.com/28659185/77260254-2c6dce80-6c87-11ea-8e1b-77810f33b199.png)
+
+Dans mode de capture, choisissez Vidéo Camera (affichage dépend de votre PC, mais vous comprendrez). Les choix sont limités car proposés dans le menu déroulant, donc pas d'inquiétude. Par contre, si rien n'est disponible ou seul "desktop" est affiché, alors votre PC ne peut être compatible.
+Dans nom du périphérique de capture, faites un peu par tâtonnement. choisissez une valeur proposée par la liste déroulante, et cliquez sur le bouton "lire". Si cela ne fonctionne pas après 10 secondes, essayez une autre valeur. Si cela ne fonctionne toujours pas et qu'il n'y a pas d'autres choix, votre PC n'est pas compatible.
+
+Connectez-vous à un salon vocal discord, cliquez sur le bouton Go Live, et choisissez VLC.
+
+![Screen Go Live Discord avec VLC](https://user-images.githubusercontent.com/28659185/77260255-2d066500-6c87-11ea-9887-963bf3a518d3.png)
+
+Normalement, tout est bon. Ça fera comme si vous faisiez un live youtube de votre webcam, mais sur discord !
+
+# L'article sera mis à jour fréquemment.
+
+Sections à rédiger:
+
+* Appels vidéos ou vocaux en privé
+* Et on ne sait pas encore...
